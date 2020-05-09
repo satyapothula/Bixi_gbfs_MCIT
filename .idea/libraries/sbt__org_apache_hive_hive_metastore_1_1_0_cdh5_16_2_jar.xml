@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.hive:hive-metastore:1.1.0-cdh5.16.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/http/repository.cloudera.com/artifactory/cloudera-repos/org/apache/hive/hive-metastore/1.1.0-cdh5.16.2/hive-metastore-1.1.0-cdh5.16.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/http/repository.cloudera.com/artifactory/cloudera-repos/org/apache/hive/hive-metastore/1.1.0-cdh5.16.2/hive-metastore-1.1.0-cdh5.16.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/http/repository.cloudera.com/artifactory/cloudera-repos/org/apache/hive/hive-metastore/1.1.0-cdh5.16.2/hive-metastore-1.1.0-cdh5.16.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
